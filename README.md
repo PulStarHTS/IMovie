@@ -517,6 +517,6 @@ No license is specified in this README. Add a `LICENSE` file if you intend to di
 
 ---
 
-**Developed by Aagam Jain**
+**Developed by Husain Shakruwala**
 
 [View the iMovies repository on GitHub](https://github.com/Aagam124/IMovies---Movie-ticket-booking-made-simple..git)
